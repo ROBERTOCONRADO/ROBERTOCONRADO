@@ -2,7 +2,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bettorc/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-rocha-38781b235/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![image](https://user-images.githubusercontent.com/101284742/167201525-ace6a0e9-9312-4eb9-817b-511a80b34a65.png)](https://warm-meerkat-6d101a.netlify.app)
+[![image](https://user-images.githubusercontent.com/101284742/167201525-ace6a0e9-9312-4eb9-817b-511a80b34a65.png)](https://warm-meerkat-6d101a.netlify.app)&nbsp;
 
 
 # Tecnologias que Utilizo! 👨🏽‍💻
