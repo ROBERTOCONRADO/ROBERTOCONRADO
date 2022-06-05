@@ -2,7 +2,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bettorc/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-rocha-38781b235/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![magnetico (1)](https://user-images.githubusercontent.com/101284742/168284387-666b7ec7-507b-4ac2-8d95-bf671713aee2.png)](https://willowy-quokka-9c352b.netlify.app/)
+[![magnetico (1)](https://user-images.githubusercontent.com/101284742/168284387-666b7ec7-507b-4ac2-8d95-bf671713aee2.png)]([https://willowy-quokka-9c352b.netlify.app/](https://famous-babka-22b961.netlify.app))
 &nbsp;
 
 
