@@ -30,3 +30,9 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>&nbsp;&nbsp;
     <img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div>
+
+<br>
+<div>
+    <a href="https://info.flagcounter.com/8zZ5"><img src="https://s04.flagcounter.com/count2/8zZ5/bg_000000/txt_FFFFFF/border_000000/columns_8/maxflags_200/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+</div>    
+
