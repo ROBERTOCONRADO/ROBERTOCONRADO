@@ -1,4 +1,10 @@
 # Olá! Eu sou o Roberto ✋
+<div align="center">
+    
+<img src="https://user-images.githubusercontent.com/101284742/173443088-d11bba16-f95f-4181-bbe3-96cc4f6f107d.png" width="400px"/>
+    
+</div>    <br>
+    
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bettorc/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-rocha-38781b235/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
