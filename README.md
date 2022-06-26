@@ -3,7 +3,7 @@
 
 <div align="center">
     <h1 style=" font-size: 20px; font-family:'Rubik Moonrocks', cursive;">Welcome! ✋</h1>
-    <p style="color: red">My name is Roberto, I'm a Web development student and I'm looking for my first job in the area.</p>
+    <p style="color: red; font-size: 20px">My name is Roberto, I'm a Web development student and I'm looking for my first job in the area.</p>
 </div>    
 <div align="center">
     
