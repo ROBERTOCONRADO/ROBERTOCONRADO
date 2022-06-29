@@ -29,6 +29,10 @@
 <div align="center">
     
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-rocha-38781b235/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<div>
+
+
     
 </div>    
 <div align="center"> 
