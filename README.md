@@ -38,7 +38,7 @@
 </div>    
 <div align="center"> 
     
-[![magnetico (1)](https://user-images.githubusercontent.com/101284742/168284387-666b7ec7-507b-4ac2-8d95-bf671713aee2.png)](https://famous-babka-22b961.netlify.app)
+[![magnetico (1)](https://user-images.githubusercontent.com/101284742/168284387-666b7ec7-507b-4ac2-8d95-bf671713aee2.png)](https://robertoconrado.github.io/Portif-lio2/)
 &nbsp;
     
 </div> 
