@@ -1,10 +1,9 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e67993&size=42&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Roberto.;Tenho+28+anos.;Sou+estudante+de+Front+End+.+.+.;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
+
 
 <link href="https://fonts.googleapis.com/css2?family=Rubik+Moonrocks&display=swap" rel="stylesheet">
 
-<div align="center">
-    <h1 style=" font-size: 20px; font-family:'Rubik Moonrocks', cursive;">Welcome! ✋</h1>
-    <p style="color: red; font-size: 20px">My name is Roberto, I'm a Web development student and I'm looking for my first job in the area.</p>
-</div>    
+    
 <div align="center">
     
 <img src="https://user-images.githubusercontent.com/101284742/173443088-d11bba16-f95f-4181-bbe3-96cc4f6f107d.png" width="400px"/>
@@ -19,6 +18,8 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/101284742/176307460-900632b9-47c6-43cd-89dc-ba40eb7cb24f.jpg" width="600px" height="400px"/>
 </div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e67993&size=42&center=true&vCenter=true&width=1000&lines=Help+me+find+my+first+job.+:%29)](https://git.io/typing-svg)
     
 <div align="center"> 
     
