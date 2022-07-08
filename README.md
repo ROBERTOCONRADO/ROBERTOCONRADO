@@ -73,7 +73,7 @@
 </div>
 </div> 
 
-<div align="center" >  
+<div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ROBERTOCONRADO&show_icons=true&count_private=true&hide_border=true&title_color=e67993&icon_color=e67993&text_color=f0f6fc&bg_color=0d1117"/> 
   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROBERTOCONRADO&layout=compact&hide_border=true&title_color=e67993&text_color=f0f6fc&bg_color=0d1117" />
 </div>
