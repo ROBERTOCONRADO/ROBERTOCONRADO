@@ -65,6 +65,7 @@
     <img align="center" alt="Esthef-SQL" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">&nbsp;&nbsp;
     <img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express&logoColor=61DAFB"/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/PHP-20232A?style=for-the-badge&logo=php&logoColor=61DAFB"/>
 </div>
 </div> <br>
 
