@@ -65,13 +65,16 @@
     <img align="center" alt="Esthef-SQL" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">&nbsp;&nbsp;
     <img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express&logoColor=61DAFB"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/PHP-20232A?style=for-the-badge&logo=php&logoColor=61DAFB"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" width="50" height="40" style="max-width: 100%;"></img>
 </div>
 </div> <br>
+
+
 
 <div align="center">
 <div>
     <a href="https://info.flagcounter.com/8zZ5"><img src="https://s04.flagcounter.com/count2/8zZ5/bg_000000/txt_FFFFFF/border_000000/columns_8/maxflags_200/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+    <p align="center"> <img src="https://komarev.com/ghpvc/?username=ROBERTOCONRADO&label=Profile%20views&color=0e75b6&style=flat" alt="Roberto" /> </p>
 </div>
 </div> 
 
