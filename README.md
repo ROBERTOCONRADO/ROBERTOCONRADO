@@ -20,18 +20,16 @@
     
 <div style="display: inline_block" align="center"> 
     
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bettorc/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-rocha-38781b235/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:robertoconradorc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-</div>    
-   
-   
-<div align="center"> 
-    
-[![magnetico (1)](https://user-images.githubusercontent.com/101284742/168284387-666b7ec7-507b-4ac2-8d95-bf671713aee2.png)](https://robertoconrado.github.io/Portif-lio2/)
-&nbsp;
-    
+<h2 align="center"> Let's Connect</h2>
+<p align="center">
+  <a href="https://www.instagram.com/bettorc/" target="_blank"><img src="https://img.icons8.com/bubbles/80/000000/instagram-new--v2.png"/>
+   <a href="https://robertoconrado.github.io/Portif-lio2/" target="_blank"><img src="https://img.icons8.com/bubbles/80/000000/web.png" alt="Website"/></a>
+	<a href="mailto:robertoconradorc@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/80/000000/gmail.png" title='Gmail' alt="Gmail"/></a>
+  <a href="https://api.whatsapp.com/send?phone=5577991556513&text=Óla!%20Encontrei%20seu%20contato%20pelo%20GitHub." target="_blank"><img src="https://img.icons8.com/bubbles/80/000000/whatsapp.png"/>
+	<a href="https://www.linkedin.com/in/robertoconrado/" target="_blank"><img src="https://img.icons8.com/bubbles/80/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
+	<a href="https://twitter.com/beetoorc" target="_blank"><img src="https://img.icons8.com/bubbles/80/000000/twitter-circled.png" title='Twitter' alt="twitter"/></a>
+	
+</p>
 </div> 
 
 <div align="center">
