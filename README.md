@@ -48,24 +48,19 @@
   
 </div>
 
-## Objetivos 👇🏼
-
 <div style="display: inline_block"></br>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>&nbsp;&nbsp;
-    <img align="center" alt="html5" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>&nbsp;&nbsp;
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>&nbsp;&nbsp;
+    <h3 align="center"> Future Goals 👇🏼</h3>
+<img src="https://img.icons8.com/color/60/000000/typescript.png"/>
+<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/60/000000/external-sql-computer-programming-flaticons-flat-flat-icons.png"/>
+<img src="https://img.icons8.com/dusk/60/000000/php-logo.png"/>
+<img src="https://img.icons8.com/fluency/60/000000/ac-dc-converter.png"/>
+<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/60/000000/external-rust-is-a-multi-paradigm-system-programming-language-logo-shadow-tal-revivo.png"/>
+<img src="https://img.icons8.com/cute-clipart/60/000000/react-native.png"/>
+<img src="https://img.icons8.com/dusk/60/000000/python.png"/>
+<img src="https://img.icons8.com/color/60/000000/c-sharp-logo.png"/>
     
 </div></br>
 
-<div align="center">
-<div>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white"/>&nbsp;&nbsp;
-    <img align="center" alt="Esthef-SQL" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">&nbsp;&nbsp;
-    <img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Express-20232A?style=for-the-badge&logo=express&logoColor=61DAFB"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" width="50" height="40" style="max-width: 100%;"></img>
-</div>
-</div> <br>
 
 <div align="center">
    <a href="https://info.flagcounter.com/6Ph1"><img src="https://s01.flagcounter.com/count2/6Ph1/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_160/viewers_3/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
