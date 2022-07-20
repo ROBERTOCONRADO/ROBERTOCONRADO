@@ -22,10 +22,10 @@
     
 <h2 align="center"> Let's Connect</h2>
 <p align="center">
-  <a href="https://www.instagram.com/bettorc/" target="_blank"><img src="https://img.icons8.com/bubbles/80/000000/instagram-new--v2.png"/>
-   <a href="https://robertoconrado.github.io/Portif-lio2/" target="_blank"><img src="https://img.icons8.com/bubbles/80/000000/web.png" alt="Website"/></a>
+  <a href="https://www.instagram.com/bettorc/" target="_blank"><img src="https://img.icons8.com/bubbles/80/000000/instagram-new--v2.png" title='Instagram'/>
+   <a href="https://robertoconrado.github.io/Portif-lio2/" target="_blank"><img src="https://img.icons8.com/bubbles/80/000000/web.png" alt="Website" title='Website'/></a>
 	<a href="mailto:robertoconradorc@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/80/000000/gmail.png" title='Gmail' alt="Gmail"/></a>
-  <a href="https://api.whatsapp.com/send?phone=5577991556513&text=Óla!%20Encontrei%20seu%20contato%20pelo%20GitHub." target="_blank"><img src="https://img.icons8.com/bubbles/80/000000/whatsapp.png"/>
+  <a href="https://api.whatsapp.com/send?phone=5577991556513&text=Óla!%20Encontrei%20seu%20contato%20pelo%20GitHub." target="_blank"><img src="https://img.icons8.com/bubbles/80/000000/whatsapp.png" title='WhatsApp'/>
 	<a href="https://www.linkedin.com/in/robertoconrado/" target="_blank"><img src="https://img.icons8.com/bubbles/80/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
 	<a href="https://twitter.com/beetoorc" target="_blank"><img src="https://img.icons8.com/bubbles/80/000000/twitter-circled.png" title='Twitter' alt="twitter"/></a>
 	
@@ -50,14 +50,14 @@
 
 <div style="display: inline_block"></br>
     <h3 align="center"> Future Goals 👇🏼</h3>
-<img src="https://img.icons8.com/color/60/000000/typescript.png"/>
-<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/60/000000/external-sql-computer-programming-flaticons-flat-flat-icons.png"/>
-<img src="https://img.icons8.com/dusk/60/000000/php-logo.png"/>
+<img src="https://img.icons8.com/color/60/000000/typescript.png" title='TypeScript'/>
+<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/60/000000/external-sql-computer-programming-flaticons-flat-flat-icons.png" title='SQL'/>
+<img src="https://img.icons8.com/dusk/60/000000/php-logo.png" title='PHP'/>
 <img src="https://img.icons8.com/fluency/60/000000/ac-dc-converter.png"/>
-<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/60/000000/external-rust-is-a-multi-paradigm-system-programming-language-logo-shadow-tal-revivo.png"/>
-<img src="https://img.icons8.com/cute-clipart/60/000000/react-native.png"/>
-<img src="https://img.icons8.com/dusk/60/000000/python.png"/>
-<img src="https://img.icons8.com/color/60/000000/c-sharp-logo.png"/>
+<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/60/000000/external-rust-is-a-multi-paradigm-system-programming-language-logo-shadow-tal-revivo.png" title='RUST'/>
+<img src="https://img.icons8.com/cute-clipart/60/000000/react-native.png" title='React Native'/>
+<img src="https://img.icons8.com/dusk/60/000000/python.png" title='Python'/>
+<img src="https://img.icons8.com/color/60/000000/c-sharp-logo.png" title='c-sharp'/>
     
 </div></br>
 
