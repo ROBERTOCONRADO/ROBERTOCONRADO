@@ -15,8 +15,6 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/101284742/176307460-900632b9-47c6-43cd-89dc-ba40eb7cb24f.jpg" width="600px" height="400px"/>
 </div>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e67993&size=42&center=true&vCenter=true&width=1000&lines=Help+me+find+my+first+job.+:%29)](https://git.io/typing-svg)
     
 <div style="display: inline_block" align="center"> 
     
@@ -64,7 +62,7 @@
 
 <div align="center">
    <a href="https://info.flagcounter.com/6Ph1"><img src="https://s01.flagcounter.com/count2/6Ph1/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_160/viewers_3/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-   <p align="center"> <img src="https://komarev.com/ghpvc/?username=ROBERTOCONRADO&label=Profile%20views&color=0e75b6&style=flat" alt="Roberto" /> </p>
+   
    
 </div>
 
