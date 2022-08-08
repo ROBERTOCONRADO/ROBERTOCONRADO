@@ -67,6 +67,11 @@
 </div>
 
 </div> 
+<div align="center">
+<p>Total de visitas no perfil:</p>
+<img src="https://profile-counter.glitch.me/ROBERTOCONRADO/count.svg"/>
+<p>
+    
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ROBERTOCONRADO&show_icons=true&count_private=true&hide_border=true&title_color=e67993&icon_color=e67993&text_color=f0f6fc&bg_color=0d1117"/> 
