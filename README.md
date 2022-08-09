@@ -10,15 +10,13 @@
 <div align="center">
     <h1 style=" font-size: 20px; font-family:'Rubik Moonrocks', cursive;">My workplace</h1>
     <p style="color: red; font-size: 20px"></p>
-</div> 
-
-<div align="center">
+ 
 <img src="https://user-images.githubusercontent.com/101284742/176307460-900632b9-47c6-43cd-89dc-ba40eb7cb24f.jpg" width="600px" height="400px"/>
 </div>
     
 <div style="display: inline_block" align="center"> 
     
-<h2 align="center"> Let's Connect</h2>
+## Let's Connect
 <p align="center">
   <a href="https://www.instagram.com/bettorc/" target="_blank"><img src="https://img.icons8.com/bubbles/80/000000/instagram-new--v2.png" title='Instagram'/>
    <a href="https://robertoconrado.github.io/Portif-lio2/" target="_blank"><img src="https://img.icons8.com/bubbles/80/000000/web.png" alt="Website" title='Website'/></a>
@@ -30,24 +28,17 @@
 </p>
 </div> 
 
-<div align="center">
-    <h2>Tecnologias que Utilizo! 👨🏽‍💻</h2>
+<div align="center" style="display: inline_block">
 
-<div align="center" valign="top"><br>
-  
-  <img align="center" alt="HTML" height="40" margin="50px" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" margin="50px" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="37" margin="50px" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="jQuery" height="37" margin="50px" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg">
-  <img align="center" alt="React" height="40" margin="50px" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="React" height="40" margin="50px" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="git" height="40" margin="50px" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="github" height="40" margin="50px" width="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> 
-  
-</div>
+## Tecnologias que Utilizo!
 
-<div style="display: inline_block"></br>
-    <h3 align="center"> Future Goals 👇🏼</h3>
+<p align="center" margin-left="30px" alt="Roberto" height="30" width="40">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,sass,css,javascript,jquery,bootstrap,github,figma,git"/>
+  </a>
+</p>
+
+## Future Goals 👇🏼
 <img src="https://img.icons8.com/color/60/000000/typescript.png" title='TypeScript'/>
 <img src="https://img.icons8.com/dusk/60/000000/php-logo.png" title='PHP'/>
 <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/60/000000/external-sql-computer-programming-flaticons-flat-flat-icons.png" title='SQL'/>
