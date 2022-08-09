@@ -16,7 +16,8 @@
     
 <div style="display: inline_block" align="center"> 
     
-## Let's Connect
+## You can find me at any link below! 🧑🏻‍👇🏻
+# Vacancies open for new friendships. ➕✔️
 <p align="center">
   <a href="https://www.instagram.com/bettorc/" target="_blank"><img src="https://img.icons8.com/bubbles/80/000000/instagram-new--v2.png" title='Instagram'/>
    <a href="https://robertoconrado.github.io/Portif-lio2/" target="_blank"><img src="https://img.icons8.com/bubbles/80/000000/web.png" alt="Website" title='Website'/></a>
@@ -30,7 +31,7 @@
 
 <div align="center" style="display: inline_block">
 
-## Tecnologias que Utilizo!
+## I currently work with  💻👇🏻
 
 <p align="center" margin-left="30px" alt="Roberto" height="30" width="40">
   <a href="https://skillicons.dev">
@@ -38,7 +39,7 @@
   </a>
 </p>
 
-## Future Goals 👇🏼
+## I'm interested 👇🏻
 <img src="https://img.icons8.com/color/60/000000/typescript.png" title='TypeScript'/>
 <img src="https://img.icons8.com/dusk/60/000000/php-logo.png" title='PHP'/>
 <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/60/000000/external-sql-computer-programming-flaticons-flat-flat-icons.png" title='SQL'/>
