@@ -35,7 +35,7 @@
 
 <p align="center" margin-left="30px" alt="Roberto" height="30" width="40">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,sass,css,javascript,jquery,bootstrap,github,figma,git"/>
+    <img src="https://skillicons.dev/icons?i=html,sass,css,javascript,jquery,bootstrap,github,figma,vscode,git"/>
   </a>
 </p>
 
