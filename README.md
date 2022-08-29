@@ -6,13 +6,6 @@
 <img src="https://user-images.githubusercontent.com/101284742/173443088-d11bba16-f95f-4181-bbe3-96cc4f6f107d.png" width="350px"/>
 <img src="https://user-images.githubusercontent.com/101284742/173452819-c330897a-350e-49a1-ab9c-bd99a838c670.png" width="350px"/>
 </div>    <br>
-
-<div align="center">
-    <h1 style=" font-size: 20px; font-family:'Rubik Moonrocks', cursive;">My workplace</h1>
-    <p style="color: red; font-size: 20px"></p>
- 
-<img src="https://user-images.githubusercontent.com/101284742/176307460-900632b9-47c6-43cd-89dc-ba40eb7cb24f.jpg" width="600px" height="400px"/>
-</div>
     
 <div style="display: inline_block" align="center"> 
     
