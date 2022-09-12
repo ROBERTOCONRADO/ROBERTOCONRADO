@@ -34,12 +34,9 @@
 
 ## I'm interested 👇🏻
 <img src="https://img.icons8.com/color/60/000000/typescript.png" title='TypeScript'/>
-<img src="https://img.icons8.com/dusk/60/000000/php-logo.png" title='PHP'/>
-<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/60/000000/external-sql-computer-programming-flaticons-flat-flat-icons.png" title='SQL'/>
-<img src="https://img.icons8.com/color/60/000000/mysql-logo.png" title='MySQL'/>
-<img src="https://img.icons8.com/cute-clipart/60/000000/react-native.png" title='React Native'/>
+<img src="https://img.icons8.com/ultraviolet/60/000000/react--v1.png" title='React'/>
 <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/60/000000/external-rust-is-a-multi-paradigm-system-programming-language-logo-shadow-tal-revivo.png" title='RUST'/>
-<img src="https://img.icons8.com/dusk/60/000000/python.png" title='Python'/>
+<img src="https://img.icons8.com/dusk/60/000000/php-logo.png" title='PHP'/>
 <img src="https://img.icons8.com/color/60/000000/c-sharp-logo.png" title='C-sharp'/>
     
 </div></br>
