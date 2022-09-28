@@ -28,13 +28,13 @@
 
 <p align="center" margin-left="30px" alt="Roberto" height="30" width="40">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,sass,css,javascript,jquery,bootstrap,github,figma,vscode,git"/>
+    <img src="https://skillicons.dev/icons?i=html,sass,css,javascript,vue,react,jquery,bootstrap,github,figma,git,vscode"/>
   </a>
 </p>
 
 ## I'm interested 👇🏻
 <img src="https://img.icons8.com/color/60/000000/typescript.png" title='TypeScript'/>
-<img src="https://img.icons8.com/ultraviolet/60/000000/react--v1.png" title='React'/>
+<img src="https://img.icons8.com/ultraviolet/60/000000/react--v1.png" title='React Native'/>
 <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/60/000000/external-rust-is-a-multi-paradigm-system-programming-language-logo-shadow-tal-revivo.png" title='RUST'/>
 <img src="https://img.icons8.com/dusk/60/000000/php-logo.png" title='PHP'/>
 <img src="https://img.icons8.com/color/60/000000/c-sharp-logo.png" title='C-sharp'/>
