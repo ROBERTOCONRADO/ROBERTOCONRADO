@@ -3,7 +3,6 @@
 <link href="https://fonts.googleapis.com/css2?family=Rubik+Moonrocks&display=swap" rel="stylesheet">
    
 <div align="center">
-<img src="https://user-images.githubusercontent.com/101284742/173443088-d11bba16-f95f-4181-bbe3-96cc4f6f107d.png" width="350px"/>
 <img src="https://user-images.githubusercontent.com/101284742/173452819-c330897a-350e-49a1-ab9c-bd99a838c670.png" width="350px"/>
 </div>    <br>
     
