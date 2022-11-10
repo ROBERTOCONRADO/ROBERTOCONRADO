@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e67993&size=42&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Roberto.;I'm+28.;Welcome+to+my+Profile!+.+.+.+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DDE1F4&size=40&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Roberto.;I'm+28.;Welcome+to+my+Profile!+.+.+.+:%29)](https://git.io/typing-svg)
 
 <link href="https://fonts.googleapis.com/css2?family=Rubik+Moonrocks&display=swap" rel="stylesheet">
    
