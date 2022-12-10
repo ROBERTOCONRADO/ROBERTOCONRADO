@@ -1,10 +1,29 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DDE1F4&size=40&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Roberto.;I'm+28.;Welcome+to+my+Profile!+.+.+.+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DDE1F4&size=40&left=true&vCenter=true&width=1000&lines=Welcome+to+my+Profile!🏌🏻+.+.+.+.🕳 )](https://git.io/typing-svg)
 
-<link href="https://fonts.googleapis.com/css2?family=Rubik+Moonrocks&display=swap" rel="stylesheet">
+<p align="center">
+    <img align="right" src="https://user-images.githubusercontent.com/101284742/173452819-c330897a-350e-49a1-ab9c-bd99a838c670.png" width="550px">
+<br>
    
-<div align="center">
-<img src="https://user-images.githubusercontent.com/101284742/173452819-c330897a-350e-49a1-ab9c-bd99a838c670.png" width="350px"/>
-</div>    <br>
+Olá 👋🏻 me chamo <b>Roberto Conrado</b>. Sou <b>Programador👨🏻‍💻</b> e <b>UI/UX Designer🧑🏻‍🎨</b>.
+<br>
+
+### 💻 Programas/Ferramentas/Linguagens que estou aprendendo:
+- VScode
+- HTML
+- CSS
+- Sass
+- Boostrap
+- Tawling CSS
+- Figma
+- Git
+- Javascript
+- React
+- Redux	
+- Vue.js
+- TypeScript
+- Node.js
+
+<br>
     
 <div style="display: inline_block" align="center"> 
     
