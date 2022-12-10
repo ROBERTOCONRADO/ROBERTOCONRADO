@@ -7,7 +7,7 @@
 Olá 👋🏻 me chamo <b>Roberto Conrado</b>. Sou <b>Programador👨🏻‍💻</b> e <b>UI/UX Designer🧑🏻‍🎨</b>.
 <br>
 
-### 💻 Programas/Ferramentas/Linguagens que estou aprendendo:
+### 💻 Programas/Ferramentas/Linguagens que estou em constante evolução:
 - VScode
 - HTML
 - CSS
