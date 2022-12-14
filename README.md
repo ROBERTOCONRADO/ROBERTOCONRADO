@@ -1,13 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DDE1F4&size=40&left=true&vCenter=true&width=1000&lines=Welcome+to+my+Profile!🏌🏻+.+.+.+.🕳 )](https://git.io/typing-svg)
-
-<p align="center">
-    <img align="right" src="https://user-images.githubusercontent.com/101284742/173452819-c330897a-350e-49a1-ab9c-bd99a838c670.png" width="520px">
 <br>
+
+
+<img align="right" src="https://github.com/ROBERTOCONRADO/ROBERTOCONRADO/blob/main/animation_500_lbnqs8dr.gif"  width="520px">
+
    
 Olá 👋🏻 me chamo <b>Roberto Conrado</b>. Sou <b>Programador👨🏻‍💻</b> e <b>UI/UX Designer🧑🏻‍🎨</b>.
 <br>
 
-### 💻 Programas/Ferramentas/Linguagens que estou em constante evolução:
+### 💻 Programas/Ferramentas/Linguagens:
 - VScode
 - HTML
 - CSS
