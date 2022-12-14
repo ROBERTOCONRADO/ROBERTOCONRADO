@@ -39,7 +39,7 @@ Olá 👋🏻 me chamo <b>Roberto Conrado</b>. Sou <b>Programador👨🏻‍💻
 	<a href="https://www.linkedin.com/in/robertoconrado/" target="_blank"><img src="https://img.icons8.com/bubbles/80/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
 	<a href="https://twitter.com/beetoorc" target="_blank"><img src="https://img.icons8.com/bubbles/80/000000/twitter-circled.png" title='Twitter' alt="twitter"/></a>
 	
-</p>
+
 </div> 
 
 <div align="center" style="display: inline_block">
