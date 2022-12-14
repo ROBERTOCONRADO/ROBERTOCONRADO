@@ -28,7 +28,7 @@ Olá 👋🏻 me chamo <b>Roberto Conrado</b>. Sou <b>Programador👨🏻‍💻
     
 <div style="display: inline_block" align="center"> 
     
-## Você pode me encontrar nos links abaixo!🧑🏻‍👇🏻
+# Você pode me encontrar nos links abaixo! 🧑🏻‍👇🏻
 # Vagas abertas para novas amizades ➕✔️
 <p align="center">
   <a href="https://www.instagram.com/bettorc/" target="_blank"><img src="https://img.icons8.com/bubbles/80/000000/instagram-new--v2.png" title='Instagram'/>
@@ -38,7 +38,6 @@ Olá 👋🏻 me chamo <b>Roberto Conrado</b>. Sou <b>Programador👨🏻‍💻
   <a href="https://api.whatsapp.com/send?phone=5577991556513&text=Óla!%20Encontrei%20seu%20contato%20pelo%20GitHub." target="_blank"><img src="https://img.icons8.com/bubbles/80/000000/whatsapp.png" title='WhatsApp'/>
 	<a href="https://www.linkedin.com/in/robertoconrado/" target="_blank"><img src="https://img.icons8.com/bubbles/80/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
 	<a href="https://twitter.com/beetoorc" target="_blank"><img src="https://img.icons8.com/bubbles/80/000000/twitter-circled.png" title='Twitter' alt="twitter"/></a>
-	
 
 </div> 
 
