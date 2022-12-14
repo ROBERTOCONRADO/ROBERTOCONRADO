@@ -13,7 +13,7 @@ Olá 👋🏻 me chamo <b>Roberto Conrado</b>. Sou <b>Programador👨🏻‍💻
 - HTML
 - CSS
 - Sass
-- Boostrap
+- Bootstrap
 - Tawling CSS
 - Figma
 - Git
@@ -26,9 +26,9 @@ Olá 👋🏻 me chamo <b>Roberto Conrado</b>. Sou <b>Programador👨🏻‍💻
 
 <br>
     
-<div style="display: inline_block" align="center"> 
-    
-### Você pode me encontrar nos links abaixo! 🧑🏻‍👇🏻
+<div style="display: inline_block" align="center">
+	
+### Você pode me encontrar nos links abaixo.🧑🏻‍👇🏻
 # Vagas abertas para novas amizades ➕✔️
 <p align="center">
   <a href="https://www.instagram.com/bettorc/" target="_blank"><img src="https://img.icons8.com/bubbles/80/000000/instagram-new--v2.png" title='Instagram'/>
