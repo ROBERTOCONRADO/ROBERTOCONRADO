@@ -16,6 +16,7 @@ Olá 👋🏻 me chamo <b>Roberto Conrado</b>. Sou <b>Programador👨🏻‍💻
 - Bootstrap
 - Tawling CSS
 - Figma
+- Miro
 - Git
 - Javascript
 - React
