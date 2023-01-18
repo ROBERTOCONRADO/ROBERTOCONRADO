@@ -58,7 +58,7 @@ Olá 👋🏻 me chamo <b>Roberto Conrado</b>. Sou <b>Programador👨🏻‍💻
 
 </div> 
 <div align="center">
-<p>Total de visitas no perfil:</p>
+<p>Visitante Número:</p>
 <img src="https://profile-counter.glitch.me/ROBERTOCONRADO/count.svg"/>
 <p>
 <br>	
