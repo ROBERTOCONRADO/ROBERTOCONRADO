@@ -64,7 +64,7 @@ Olá 👋🏻 me chamo <b>Roberto Conrado</b>. Sou <b>Programador👨🏻‍💻
 <br>	
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ROBERTOCONRADO&theme=great-gatsby"/> 
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROBERTOCONRADO&layout=compact&theme=great-gatsby"/>
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROBERTOCONRADO&langs_count=7&layout=compact&theme=great-gatsby"/>
 </div>
 <br>
 <div align="center"> 
