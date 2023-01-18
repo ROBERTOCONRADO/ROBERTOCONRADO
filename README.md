@@ -61,13 +61,12 @@ Olá 👋🏻 me chamo <b>Roberto Conrado</b>. Sou <b>Programador👨🏻‍💻
 <p>Total de visitas no perfil:</p>
 <img src="https://profile-counter.glitch.me/ROBERTOCONRADO/count.svg"/>
 <p>
-    
-
+<br>	
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ROBERTOCONRADO&show_icons=true&count_private=true&hide_border=true&title_color=e67993&icon_color=e67993&text_color=f0f6fc&bg_color=0d1117"/> 
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROBERTOCONRADO&layout=compact&hide_border=true&title_color=e67993&text_color=f0f6fc&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ROBERTOCONRADO&theme=great-gatsby"/> 
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROBERTOCONRADO&layout=compact&theme=great-gatsby"/>
 </div>
-
+<br>
 <div align="center"> 
 Siga-me no LinkedIn:
      
