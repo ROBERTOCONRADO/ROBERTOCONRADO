@@ -1,20 +1,19 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DDE1F4&size=40&left=true&vCenter=true&width=1000&lines=Welcome+to+my+Profile!🏌🏻+.+.+.+.🕳 )](https://git.io/typing-svg)
 <br>
+  
+# <b>Desenvolvedor👨🏻‍💻</b> e <b>UI/UX Designer🧑🏻‍🎨</b>
+## Graduando em <b>Análise e Desenvolvimento de Sistemas</b>
 
-
-<img align="right" src="https://github.com/ROBERTOCONRADO/ROBERTOCONRADO/blob/main/animation_500_lbnqs8dr.gif"  width="520px">
-
-   
-Olá 👋🏻 me chamo <b>Roberto Conrado</b>. Sou <b>Programador👨🏻‍💻</b> e <b>UI/UX Designer🧑🏻‍🎨</b>.
-<br>
+<img align="right" src="https://github.com/ROBERTOCONRADO/ROBERTOCONRADO/blob/main/animation_500_lbnqs8dr.gif"  width="600px">
 
 ### 💻 Programas/Ferramentas/Linguagens:
 - VScode
-- HTML
-- CSS
-- Sass
+- Visual Studio
+- HTML5
+- CSS3
+- SASS
 - Bootstrap
-- Tawling CSS
+- Tailwind CSS
 - Figma
 - Miro
 - Git
@@ -24,6 +23,8 @@ Olá 👋🏻 me chamo <b>Roberto Conrado</b>. Sou <b>Programador👨🏻‍💻
 - Vue.js
 - TypeScript
 - Node.js
+- C#
+- PHP
 
 <br>
     
