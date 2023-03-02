@@ -30,8 +30,8 @@
     
 <div style="display: inline_block" align="center">
 	
-### Você pode me encontrar nos links abaixo.🧑🏻‍👇🏻
-# Vagas abertas para novas amizades ➕✔️
+
+# Redes sociais ✔️
 <p align="center">
   <a href="https://www.instagram.com/bettorc/" target="_blank"><img src="https://img.icons8.com/bubbles/80/000000/instagram-new--v2.png" title='Instagram'/>
 <a href="https://robertoconrado.github.io/RobertoConrad/cv/ConradoDev.pdf" target="_blank"><img src="https://img.icons8.com/bubbles/80/null/review.png" title='Currículo'/>	  
@@ -45,11 +45,11 @@
 
 <div align="center" style="display: inline_block">
 
-## Atualmente trabalho com  💻👇🏻
+## Absorvendo 💻👇🏻
 
 <p align="center" margin-left="30px" alt="Roberto" height="30" width="40">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,sass,css,javascript,vue,react,jquery,bootstrap,github,figma,git,vscode"/>
+    <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,ts,vue,react,jquery,nodejs,cs,dotnet,mysql,bootstrap,github,figma,ai,git,vscode,visualstudio,discord"/>
   </a>
 </p>
     
