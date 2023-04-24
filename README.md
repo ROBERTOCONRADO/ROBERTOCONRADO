@@ -15,6 +15,7 @@
 - Bootstrap
 - Tailwind CSS
 - Figma
+- Illustrator
 - Miro
 - Git
 - Javascript
@@ -25,6 +26,7 @@
 - Node.js
 - C#
 - PHP
+- MySQL
 
 <br>
     
