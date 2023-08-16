@@ -4,7 +4,7 @@
 # <b>Desenvolvedor👨🏻‍💻</b> e <b>UI/UX Designer🧑🏻‍🎨</b>
 ## <b>Análise e Desenvolvimento de Sistemas, 2° Semestre</b>
 
-<img align="right" src="https://github.com/ROBERTOCONRADO/ROBERTOCONRADO/blob/main/UI%20Developer.gif" width="600px" height="600px">
+<img align="right" src="https://github.com/ROBERTOCONRADO/ROBERTOCONRADO/blob/main/UI%20Developer.gif" width="600px" height="550px">
 
 #### 💻Programas/Ferramentas/Linguagens:
 - VScode
