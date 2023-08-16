@@ -2,7 +2,7 @@
 <br>
   
 # <b>Desenvolvedor👨🏻‍💻</b> e <b>UI/UX Designer🧑🏻‍🎨</b>
-## Graduando em <b>Análise e Desenvolvimento de Sistemas</b>
+## <b>Análise e Desenvolvimento de Sistemas, 2° Semestre</b>
 
 <img align="right" src="https://github.com/ROBERTOCONRADO/ROBERTOCONRADO/blob/main/animation_500_lbnqs8dr.gif"  width="600px">
 
