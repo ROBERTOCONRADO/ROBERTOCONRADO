@@ -51,7 +51,7 @@
 
 <p align="center" margin-left="30px" alt="Roberto" height="30" width="40">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,ts,vue,react,jquery,nodejs,cs,dotnet,mysql,bootstrap,github,figma,ai,git,vscode,visualstudio,discord"/>
+    <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,ts,vue,react,go,jquery,nodejs,cs,dotnet,mysql,bootstrap,github,figma,ai,git,vscode,visualstudio,discord"/>
   </a>
 </p>
     
@@ -67,7 +67,7 @@
 <br>	
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ROBERTOCONRADO&theme=great-gatsby"/> 
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROBERTOCONRADO&langs_count=8&layout=compact&theme=great-gatsby"/>
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROBERTOCONRADO&langs_count=10&layout=compact&theme=great-gatsby"/>
 </div>
 <br>
 <div align="center"> 
