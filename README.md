@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DDE1F4&size=40&left=true&vCenter=true&width=1000&lines=Welcome+to+my+Profile!🏌🏻+.+.+.+.🕳 )](https://git.io/typing-svg)
 <br>
-  
+
 # <b>Desenvolvedor👨🏻‍💻</b> e <b>UI/UX Designer🧑🏻‍🎨</b>
 ## <b>Análise e Desenvolvimento de Sistemas, 2° Semestre</b>
 
