@@ -47,11 +47,11 @@
 
 <div align="center" style="display: inline_block">
 
-## Absorvendo 💻👇🏻
+## 💻🚀🚀
 
 <p align="center" margin-left="30px" alt="Roberto" height="30" width="40">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,ts,vue,react,go,jquery,nodejs,cs,dotnet,mysql,bootstrap,github,figma,ai,git,vscode,visualstudio,discord"/>
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,javascript,ts,vue,react,go,jquery,nodejs,cs,dotnet,mysql,bootstrap,github,figma,ai,git,vscode,visualstudio,discord"/>
   </a>
 </p>
     
