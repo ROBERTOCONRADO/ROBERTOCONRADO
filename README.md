@@ -36,7 +36,7 @@
 # Redes sociais ✔️
 <p align="center">
   <a href="https://www.instagram.com/bettorc/" target="_blank"><img src="https://img.icons8.com/bubbles/80/000000/instagram-new--v2.png" title='Instagram'/>
-<a href="https://robertoconrado.github.io/RobertoConrad/cv/ConradoDev.pdf" target="_blank"><img src="https://img.icons8.com/bubbles/80/null/review.png" title='Currículo'/>	  
+<a href="https://robertoconrado.github.io/RobertoConrad/cv/RobertoconradoCV.pdf" target="_blank"><img src="https://img.icons8.com/bubbles/80/null/review.png" title='Currículo'/>	  
    <a href="https://robertoconrado.github.io/RobertoConrad/" target="_blank"><img src="https://img.icons8.com/bubbles/80/000000/web.png" alt="Website" title='Website'/></a>
 	<a href="mailto:robertoconradorc@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/80/000000/gmail.png" title='Gmail' alt="Gmail"/></a>
   <a href="https://api.whatsapp.com/send?phone=5577991556513&text=Óla!%20Encontrei%20seu%20contato%20pelo%20GitHub." target="_blank"><img src="https://img.icons8.com/bubbles/80/000000/whatsapp.png" title='WhatsApp'/>
